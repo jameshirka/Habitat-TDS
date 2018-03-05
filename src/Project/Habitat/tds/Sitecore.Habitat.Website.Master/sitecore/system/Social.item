@@ -8,7 +8,7 @@ name: Social
 master: {00000000-0000-0000-0000-000000000000}
 template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
 templatekey: Folder
-created: 20170614T101654Z
+created: 20170728T140315Z
 
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
@@ -20,7 +20,7 @@ Network/32x32/earth_connection.png
 ----version----
 language: da
 version: 1
-revision: 8cc8d7f0-5902-4148-ab57-71d2a75f4850
+revision: 5ac8c5ec-b120-4bad-9903-28b4c0c5e500
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -42,7 +42,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20170614T103834Z
+20170728T142129Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8cc8d7f0-5902-4148-ab57-71d2a75f4850
+5ac8c5ec-b120-4bad-9903-28b4c0c5e500
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170614T103834Z
+20170728T142129Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\admin
 ----version----
 language: de-DE
 version: 1
-revision: f285e4aa-67f7-49ca-9c16-6d9c4f384bf7
+revision: edd19550-a986-41c7-b0c0-22362f0aa5a5
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -96,7 +96,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20170614T104248Z
+20170728T142457Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f285e4aa-67f7-49ca-9c16-6d9c4f384bf7
+edd19550-a986-41c7-b0c0-22362f0aa5a5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170614T104248Z
+20170728T142457Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -175,7 +175,7 @@ sitecore\admin
 ----version----
 language: ja-JP
 version: 1
-revision: 0eb37375-56e3-449c-afd6-d91600df1cc2
+revision: 17050aeb-f640-4ce8-aced-892d05794506
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -197,7 +197,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20170614T104630Z
+20170728T142805Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -211,14 +211,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0eb37375-56e3-449c-afd6-d91600df1cc2
+17050aeb-f640-4ce8-aced-892d05794506
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170614T104630Z
+20170728T142805Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
