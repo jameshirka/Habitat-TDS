@@ -149,11 +149,11 @@
       <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
     </SitecoreItem>
     <SitecoreItem Include="sitecore\templates\System\Layout\Renderings\Controller rendering.item">
-      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
       <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
     </SitecoreItem>
     <SitecoreItem Include="sitecore\templates\System\Layout\Renderings\View rendering.item">
-      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
       <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
       <DeployAlwaysFields>__Base template|</DeployAlwaysFields>
     </SitecoreItem>
