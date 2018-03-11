@@ -8,6 +8,7 @@ name: Feature
 master: {00000000-0000-0000-0000-000000000000}
 template: {93227C5D-4FEF-474D-94C0-F252EC8E8219}
 templatekey: Layout Folder
+created: 20180305T161217Z
 
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
@@ -19,7 +20,7 @@ applications/32x32/folder_cubes.png
 ----version----
 language: en
 version: 1
-revision: 80357afc-0e85-4dfb-8247-9fcabe2a7747
+revision: a2f34e71-4985-4d19-b99c-150f36b24740
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -34,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-80357afc-0e85-4dfb-8247-9fcabe2a7747
+a2f34e71-4985-4d19-b99c-150f36b24740
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160413T144837Z
+20180305T161217Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

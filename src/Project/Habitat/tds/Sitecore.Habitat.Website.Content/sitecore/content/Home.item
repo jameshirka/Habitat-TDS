@@ -8,7 +8,7 @@ name: Home
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
 templatekey: Sample Item
-created: 20161115T161133Z
+created: 20170728T140314Z
 
 ----field----
 field: {A0CB3965-8884-4C7A-8815-B6B2E5CED162}
@@ -139,7 +139,7 @@ content-length: 0
 ----version----
 language: da
 version: 1
-revision: 696fccbd-9154-44cf-99b1-5c6b9fb27f89
+revision: b4b1ac5f-04c5-4e7a-9d2a-fb0d94da0440
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -204,14 +204,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-696fccbd-9154-44cf-99b1-5c6b9fb27f89
+b4b1ac5f-04c5-4e7a-9d2a-fb0d94da0440
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20161115T163808Z
+20170728T142129Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -222,7 +222,7 @@ sitecore\admin
 ----version----
 language: de-DE
 version: 1
-revision: 3252f174-3f0b-4c10-a4f9-c97f5b7f5848
+revision: 11593e83-3726-4dc7-8214-bcbf3986fa95
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -287,14 +287,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3252f174-3f0b-4c10-a4f9-c97f5b7f5848
+11593e83-3726-4dc7-8214-bcbf3986fa95
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20161115T164233Z
+20170728T142457Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -402,7 +402,7 @@ sitecore\admin
 ----version----
 language: ja-JP
 version: 1
-revision: c43ca977-02a7-46ad-a0dc-ed309723ec4f
+revision: cc4cccc1-ec9e-4d20-bae8-bee51ba1fd5b
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -468,14 +468,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c43ca977-02a7-46ad-a0dc-ed309723ec4f
+cc4cccc1-ec9e-4d20-bae8-bee51ba1fd5b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20161115T164627Z
+20170728T142805Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
