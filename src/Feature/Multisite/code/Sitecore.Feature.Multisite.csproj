@@ -24,6 +24,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -53,12 +54,10 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Sitecore.Kernel, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\packages\Sitecore.Kernel.NoReferences.8.2.170728\lib\NET452\Sitecore.Kernel.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\..\..\..\packages\Sitecore.Kernel.NoReferences.8.2.171121\lib\NET452\Sitecore.Kernel.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Mvc, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\packages\Sitecore.Mvc.NoReferences.8.2.170728\lib\NET452\Sitecore.Mvc.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\..\..\..\packages\Sitecore.Mvc.NoReferences.8.2.171121\lib\NET452\Sitecore.Mvc.dll</HintPath>
     </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />

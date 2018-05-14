@@ -24,6 +24,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -49,16 +50,13 @@
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Sitecore.Analytics, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\packages\Sitecore.Analytics.NoReferences.8.2.170728\lib\NET452\Sitecore.Analytics.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\..\..\..\packages\Sitecore.Analytics.NoReferences.8.2.171121\lib\NET452\Sitecore.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Analytics.Model, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\packages\Sitecore.Analytics.Model.NoReferences.8.2.170728\lib\NET452\Sitecore.Analytics.Model.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\..\..\..\packages\Sitecore.Analytics.Model.NoReferences.8.2.171121\lib\NET452\Sitecore.Analytics.Model.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Kernel, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\packages\Sitecore.Kernel.NoReferences.8.2.170728\lib\NET452\Sitecore.Kernel.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\..\..\..\packages\Sitecore.Kernel.NoReferences.8.2.171121\lib\NET452\Sitecore.Kernel.dll</HintPath>
     </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -119,7 +117,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>57578</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>

@@ -24,6 +24,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -62,12 +63,10 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Sitecore.ExperienceEditor, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\packages\Sitecore.ExperienceEditor.NoReferences.8.2.170728\lib\NET452\Sitecore.ExperienceEditor.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\..\..\..\packages\Sitecore.ExperienceEditor.NoReferences.8.2.171121\lib\NET452\Sitecore.ExperienceEditor.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Kernel, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\packages\Sitecore.Kernel.NoReferences.8.2.170728\lib\NET452\Sitecore.Kernel.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\..\..\..\packages\Sitecore.Kernel.NoReferences.8.2.171121\lib\NET452\Sitecore.Kernel.dll</HintPath>
     </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -168,7 +167,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>52792</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
